@@ -17,7 +17,7 @@ Hello everyone, my name is Alysson Machado, I am from Brazil, I am graduated on 
 [BR] Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de controle e automação e entusiasta da área de Ciencia de Dados e Analise de Dados.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyssonmach/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/in/alyssonvidal/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/alyssonvidal/)
 
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=alyssonvidal&count_private=true)
