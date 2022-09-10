@@ -19,12 +19,12 @@ Hello everyone, my name is Alysson Machado, I am from Brazil, I am graduated on 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyssonmach/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/alyssonvidal/)
 
+**Progamming languages**
+Python, Pandas, Sklearn, Flask, Git, Docker, Matlab 
+
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=alyssonvidal&count_private=true)
 
-
-**Progamming languages**
-Python, Pandas, Sklearn, Flask, Git, Docker, Matlab 
 
 
 
