@@ -15,7 +15,7 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
 * **Hotel Booking Cancelation:**
   O projeto consiste em identificar o perfil dos clientes que tendem a cancelar mais booking, em seguida é desenvolvido um modelo de inteligencia artificial que tenta prever se um determinado cliente irá cancelar o booking.
   
-* **[![House Price:]**(https://github.com/alyssonvidal/House-Rocket-Sales#readme)
+* **[![House Price:]**(https://github.com/alyssonvidal/House-Rocket-Sales#readme)]
  O projeto consiste em encontrar as melhores oportunidades de revenda de imoveis, apartir dos dados coletados a inteligencia artificial será capaz de identificar o preço de um imovel é subvalorizado ou supervalorizado<br><br>
 
 **Principais Ferramentas que utilizo**<br>
