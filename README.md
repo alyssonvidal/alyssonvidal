@@ -16,7 +16,7 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
   O projeto consiste em identificar o perfil dos clientes que tendem a cancelar mais booking, em seguida é desenvolvido um modelo de inteligencia artificial que tenta prever se um determinado cliente irá cancelar o booking.
   
 **[Houses Price:](https://github.com/alyssonvidal/House-Rocket-Sales#readme)** 
- O projeto consiste em encontrar as melhores oportunidades de compra e venda de imoveis em King Country, EUA. Nele contém uma analise de negócio, contrução de tabelas, graficos e mapas iterativos (Dashboards) e um sistema de predição dos preços dos imóveis que denpende do tamanho, região, arquitera, entre outras caracteristicas.. <br><br>
+ O projeto consiste em encontrar soluções capazes de identificar as melhores oportunidades de compra e venda de imoveis em King Country, EUA. A solução contém insights de negócio, dashboards que contém tabelas, graficos e mapas iterativos e um sistema de predição dos preços dos imóveis que denpende do tamanho, região, arquitera, entre outras caracteristicas.. <br><br>
 
 **Principais Ferramentas que utilizo**<br>
  Python, Pandas, Sklearn, Flask, Git, Docker, Heroku, Folium, Geopandas, Matlab, Matlab-Simulink...<br>
