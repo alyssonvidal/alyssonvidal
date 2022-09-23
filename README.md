@@ -20,6 +20,9 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
 
 **Principais Ferramentas que utilizo**<br>
  Python, Pandas, Sklearn, Flask, Git, Docker, Heroku, Folium, Geopandas, Matlab, Matlab-Simulink...<br>
+ 
+ **Idomas**<br>
+Português e Inglês<br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyssonmach/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/alyssonvidal/)
