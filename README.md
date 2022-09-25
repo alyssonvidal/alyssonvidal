@@ -21,7 +21,7 @@ Aqui você irá encontrar meus principais projetos e repositorios sobre ciencia 
 ***
 
 **Principais Ferramentas que utilizo**<br>
- Python, Pandas, Sklearn, Flask, Git, Docker, Heroku, Folium, Geopandas, Matlab, Matlab-Simulink...<br>
+ Python, Pandas, Sklearn, Flask, Git, Docker, Heroku, SQL, Matlab, Folium, Geopandas, Matlab, Matlab-Simulink...<br>
  
  **Idomas**<br>
 Português e Inglês<br>
