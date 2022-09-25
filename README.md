@@ -16,7 +16,7 @@ Aqui você irá encontrar meus principais projetos e repositorios sobre ciencia 
   O projeto consiste em identificar o perfil dos clientes que tendem a cancelar mais booking, em seguida é desenvolvido um modelo de inteligencia artificial que tenta prever se um determinado cliente irá cancelar o booking.
   
 **[Houses Price:](https://github.com/alyssonvidal/House-Rocket-Sales#readme)** 
- O projeto consiste em encontrar soluções capazes de identificar as melhores oportunidades de compra e venda de imoveis em King Country, EUA. Esse repositório contém insights sobre negócio, dashboards com tabelas, graficos e mapas iterativos e um sistema de predição dos preços dos imóveis com as caracteristicas mais relevantes. <br><br>
+ O projeto consiste em encontrar soluções capazes de identificar as melhores oportunidades de compra e venda de imoveis em King Country, EUA. Esse repositório contém insights sobre negócio, dashboards com tabelas, graficos, mapas iterativos, em sistema de predição dos preços dos imóveis com as caracteristicas mais relevantes. <br><br>
 
 ***
 
