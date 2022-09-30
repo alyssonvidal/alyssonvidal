@@ -12,10 +12,10 @@ Aqui você irá encontrar meus principais projetos e repositorios sobre ciencia 
 
 # Principais Projetos
 
-**[DrugStore Forecast:](https://github.com/alyssonvidal/House-Rocket-Sales#readme)** 
+**[Drugstore Sales Forecast:](https://github.com/alyssonvidal/House-Rocket-Sales#readme)** 
  O projeto consiste em prever os preços de cada loja num dado periodo futuro. Esse repositório contém insights sobre negócio, modelo de machine learning projetado para prever as vendas de cada loja em 6 semanas, um bot no telegram que imforma as vendas/previsões de cada semana. <br><br>
  
-**[Houses Price:](https://github.com/alyssonvidal/House-Rocket-Sales#readme)** 
+**[Houses Price Prediction:](https://github.com/alyssonvidal/House-Rocket-Sales#readme)** 
  O projeto consiste em encontrar soluções capazes de identificar as melhores oportunidades de compra e venda de imoveis em King Country, EUA. Esse repositório contém insights sobre negócio, dashboards com tabelas, graficos, mapas iterativos, em sistema de predição dos preços dos imóveis com as caracteristicas mais relevantes. <br><br>
 
 ***
