@@ -8,7 +8,7 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
 
 # Principais Projetos
 
-**[Drugstore Sales Forecast:](https://github.com/alyssonvidal/House-Rocket-Sales#readme)** 
+**[Drugstore Sales Forecast:](https://github.com/alyssonvidal/Rossmann-Sales-Forecast#readme)** 
  O projeto consiste em prever os preços de cada loja num dado periodo futuro. Esse repositório contém insights sobre negócio, modelo de machine learning projetado para prever as vendas de cada loja em 6 semanas, um bot no telegram que imforma as vendas/previsões de cada semana. <br><br>
  
 **[Houses Price Prediction:](https://github.com/alyssonvidal/House-Rocket-Sales#readme)** 
