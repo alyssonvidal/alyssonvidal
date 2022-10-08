@@ -29,13 +29,3 @@ Português e Inglês<br>
 
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=alyssonvidal&count_private=true)
-
-
-
-
-
-
-
-
-
-
