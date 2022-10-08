@@ -14,7 +14,7 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
 **[Houses Price Prediction:](https://github.com/alyssonvidal/House-Rocket-Sales#readme)** 
  O projeto consiste em encontrar soluções capazes de identificar as melhores oportunidades de compra e venda de imoveis em King Country, EUA. Esse repositório contém insights sobre negócio, dashboards com tabelas, graficos, mapas iterativos, em sistema de predição dos preços dos imóveis com as caracteristicas mais relevantes. <br><br>
 
- **[A/B Test:](https://github.com/alyssonvidal/)** 
+ **[A/B Test Webpages:](https://github.com/alyssonvidal/)** 
  O projeto consiste validar através de testes de hipoteses se a mudança da webpage de uma empresa trouxe o lucro esperado.<br><br>
 Português e Inglês<br>
 ***
