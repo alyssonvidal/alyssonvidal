@@ -14,17 +14,16 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
 **[Houses Price Prediction:](https://github.com/alyssonvidal/House-Rocket-Sales#readme)** 
  O projeto consiste em encontrar soluções capazes de identificar as melhores oportunidades de compra e venda de imoveis em King Country, EUA. Esse repositório contém insights sobre negócio, dashboards com tabelas, graficos, mapas iterativos, em sistema de predição dos preços dos imóveis com as caracteristicas mais relevantes. <br><br>
 
+ **[A/B Test:](https://github.com/alyssonvidal/)** 
+ O projeto consiste validar através de testes de hipoteses se a mudança da webpage de uma empresa trouxe o lucro esperado.<br><br>
+Português e Inglês<br>
 ***
 
 **Principais Ferramentas que utilizo**<br>
  Python, Pandas, Sklearn, Flask, Git, Docker, Heroku, SQL, Matlab, Folium, Geopandas, Matlab, Matlab-Simulink...<br>
  
- **Idomas**<br>
+ **Idomas**<br> 
  
- **[A/B Test:](https://github.com/alyssonvidal/)** 
- O projeto consiste validar através de testes de hipoteses se a mudança da webpage de uma empresa trouxe o lucro esperado.<br><br>
-Português e Inglês<br>
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyssonmach/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/alyssonvidal/)
 
