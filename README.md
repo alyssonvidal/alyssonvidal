@@ -20,6 +20,9 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
  Python, Pandas, Sklearn, Flask, Git, Docker, Heroku, SQL, Matlab, Folium, Geopandas, Matlab, Matlab-Simulink...<br>
  
  **Idomas**<br>
+ 
+ **[A/B Test:](https://github.com/alyssonvidal/)** 
+ O projeto consiste validar através de testes de hipoteses se a mudança da webpage de uma empresa trouxe o lucro esperado.<br><br>
 Português e Inglês<br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyssonmach/)
