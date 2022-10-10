@@ -17,13 +17,13 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
  **[A/B Test conversão webpage:]( https://github.com/alyssonvidal/webpage_conversion_test_ab)** 
  O projeto consiste em avaliar se através de testes de hipoteses o impacto da mudança da webpage de uma multinacional.<br><br>
 
-Português e Inglês<br>
 ***
 
 **Principais Ferramentas que utilizo**<br>
  Python, Pandas, Sklearn, Flask, Git, Docker, Heroku, SQL, Matlab, Folium, Geopandas, Matlab, Matlab-Simulink...<br>
  
  **Idomas**<br> 
+ Português e Inglês<br>
  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyssonmach/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/alyssonvidal/)
