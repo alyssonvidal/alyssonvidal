@@ -14,6 +14,9 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
 **[Houses Price Prediction:](https://github.com/alyssonvidal/House-Rocket-Sales#readme)** 
  O projeto consiste em encontrar soluções capazes de identificar as melhores oportunidades de compra e venda de imoveis em King Country, EUA. Esse repositório contém insights sobre negócio, o modelo de machine learning capaz de fazer a predição, aplicação web com dashboards ( tabelas, graficos e mapas iterativos).<br><br>
 
+ **[E-Commerce Clients Classification:]( https://github.com/alyssonvidal/webpage_conversion_test_ab)** 
+ O projeto consiste em encontrar a melhor maneira de agrupar os clientes de acordo com o perfil de consumo. Esse repositório contém insights sobre negócio, o modelo de machine learning capaz de fazer a clusterização.<br><br>
+
  **[A/B Test conversão webpage:]( https://github.com/alyssonvidal/webpage_conversion_test_ab)** 
  O projeto consiste em avaliar se através de testes de hipoteses o impacto da mudança da webpage de uma multinacional.<br><br>
 
