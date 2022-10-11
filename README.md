@@ -12,7 +12,7 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
  O projeto consiste em prever os preços de cada loja de uma rede de drogaria em até seis semanas. Esse repositório contém insights sobre negócio, o modelo de machine learning capaz de fazer a previsão, um bot no telegram que informa as vendas/previsões de cada semana. <br><br>
  
 **[Houses Price Prediction:](https://github.com/alyssonvidal/House-Rocket-Sales#readme)** 
- O projeto consiste em encontrar soluções capazes de identificar as melhores oportunidades de compra e venda de imoveis em King Country, EUA. Esse repositório contém insights sobre negócio, o modelo de machine learning capaz de fazer a predição, aplicação web com dashboards com tabelas, graficos, mapas iterativos.<br><br>
+ O projeto consiste em encontrar soluções capazes de identificar as melhores oportunidades de compra e venda de imoveis em King Country, EUA. Esse repositório contém insights sobre negócio, o modelo de machine learning capaz de fazer a predição, aplicação web com dashboards ( tabelas, graficos e mapas iterativos).<br><br>
 
  **[A/B Test conversão webpage:]( https://github.com/alyssonvidal/webpage_conversion_test_ab)** 
  O projeto consiste em avaliar se através de testes de hipoteses o impacto da mudança da webpage de uma multinacional.<br><br>
