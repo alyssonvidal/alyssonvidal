@@ -4,7 +4,7 @@
 # Sobre mim
 <sub>Cientista de Dados e Engenheiro de Controle e Automação</sub>
 
-Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de controle e automação pela PUC MINAS e fã numero um da área de Ciencia de Dados. Aqui você irá encontrar meus principais projetos e repositorios sobre ciencia de dados, analise de dados, metodos de otimização e teoria de controle desenvolvidos em Python ou Matlab.<br>
+Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de controle e automação pela PUC MINAS e fã numero um da área de Ciencia de Dados. Aqui você irá encontrar meus principais projetos e repositorios sobre ciencia de dados, analise de dados, estatistica, metodos de otimização e teoria de controle desenvolvidos em Python ou Matlab.<br>
 
 # Principais Projetos
 
