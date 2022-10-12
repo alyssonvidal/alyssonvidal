@@ -12,8 +12,8 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
 <sub>**keywords:** Python, Machine Learning, Previsão, Series Temporais, XGBoost, SARIMAX, Random Forest, Hyperparameters Tunning, Gridsearch, API, Flask, BOT, Telegram, Heroku </sub><br><br>
  
  
-**[Introdução a Ciencia de Dados numa Imobiliária:](https://github.com/alyssonvidal/House-Rocket-Sales#readme)** 
- O projeto consiste em encontrar atraves de ferramentas comuns da ciencia de dados soluções capazes de identificar as melhores oportunidades de compra e venda de imoveis em King Country, EUA. Esse repositório contém insights sobre negócio, o modelo de machine learning capaz de fazer a predição, aplicação web com dashboards ( tabelas, graficos e mapas iterativos).<br>
+**[Recomendação de compra/venda de imóveis de uma Imobiliária:](https://github.com/alyssonvidal/House-Rocket-Sales#readme)** 
+ O projeto consiste em encontrar atraves de ferramentas comuns da ciencia de dados soluções capazes de identificar as melhores oportunidades de compra e venda de imoveis. Esse repositório contém insights sobre negócio, o modelo de machine learning capaz de fazer a predição, aplicação web com dashboards ( tabelas, graficos e mapas iterativos).<br>
  <sub>**keywords:** Python, Machine Learning, Predição, XGBoost, Hyperparameters Tunning, Gridsearch, API, Streamlit, Heroku </sub><br><br>
 
  **[Programa de Fidelidade de uma E-Commerce:]( https://github.com/alyssonvidal/webpage_conversion_test_ab)** 
