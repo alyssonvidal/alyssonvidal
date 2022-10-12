@@ -21,7 +21,8 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
 <sub>**keywords:** Python, Machine Learning, Clusterização, RFM, Kmeans, DBScan, Umap, Wordcloud</sub><br><br>
 
  **[A/B Test conversão webpage:]( https://github.com/alyssonvidal/webpage_conversion_test_ab)** 
- O projeto consiste em avaliar se através de testes de hipoteses o impacto da mudança da webpage de uma multinacional.<br><br>
+ O projeto consiste em avaliar se através de testes de hipoteses o impacto da mudança da webpage de uma multinacional.<br>
+ <sub>**keywords:** Python, Estatistica, Test A/B, Shapiro-Wilk, Levene, T-Test</sub><br><br>
 
 ***
 
