@@ -9,14 +9,15 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
 
 **[Drugstore Sales Forecast:](https://github.com/alyssonvidal/Rossmann-Sales-Forecast#readme)** 
  O projeto consiste em prever os preços de cada loja de uma rede de drogaria em até seis semanas. Esse repositório contém insights sobre negócio, o modelo de machine learning capaz de fazer a previsão, um bot no telegram que informa as vendas/previsões de cada semana.<br>
- <sub>**keywords:** Python, Machine Learning, Forecast, Timeseries, XGBoost, SARIMAX, Random Forest, Hyperparameters Tunning, Gridsearch, API, Flask, BOT, Telegram, Deploy, Heroku </sub><br><br>
+<sub>**keywords:** Python, Machine Learning, Forecast, Timeseries, XGBoost, SARIMAX, Random Forest, Hyperparameters Tunning, Gridsearch, API, Flask, BOT, Telegram, Heroku </sub><br><br>
  
  
 **[Houses Price Prediction:](https://github.com/alyssonvidal/House-Rocket-Sales#readme)** 
  O projeto consiste em encontrar soluções capazes de identificar as melhores oportunidades de compra e venda de imoveis em King Country, EUA. Esse repositório contém insights sobre negócio, o modelo de machine learning capaz de fazer a predição, aplicação web com dashboards ( tabelas, graficos e mapas iterativos).<br><br>
 
  **[E-Commerce Clients Classification:]( https://github.com/alyssonvidal/webpage_conversion_test_ab)** 
- O projeto consiste em encontrar a melhor maneira de agrupar os clientes de acordo com o perfil de consumo. Esse repositório contém insights sobre negócio, o modelo de machine learning capaz de fazer a clusterização.<br><br>
+ O projeto consiste em encontrar a melhor maneira de agrupar os clientes de acordo com o perfil de consumo. Esse repositório contém insights sobre negócio, o modelo de machine learning capaz de fazer a clusterização.<br>
+<sub>**keywords:** Python, Machine Learning, Clusterização, RFM, Kmeans, DBScan, Umap</sub><br><br>
 
  **[A/B Test conversão webpage:]( https://github.com/alyssonvidal/webpage_conversion_test_ab)** 
  O projeto consiste em avaliar se através de testes de hipoteses o impacto da mudança da webpage de uma multinacional.<br><br>
