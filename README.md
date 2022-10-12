@@ -27,9 +27,10 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
 ***
 
 **Principais Ferramentas que utilizo**<br>
- Python,  Git, Docker, Heroku, SQL, Matlab, Matlab-Simulink...<br>
- **Principais frameworks que utilizo**<br>
- Python: Pandas, Sklearn, statsmodel, scypy, Flask, Folium, Geopandas, 
+ Python, Git, Docker, Heroku, SQL, Matlab, Matlab-Simulink...<br>
+ **Principais Frameworks que utilizo**<br>
+ Python: Pandas, Sklearn, statsmodel, scipy, Flask, Folium, Geopandas...<br><br>
+ 
  **Idomas**<br> 
  Português e Inglês<br>
  
