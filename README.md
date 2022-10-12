@@ -2,14 +2,15 @@
 [![Image](https://github.com/alyssonvidal/alyssonvidal/blob/main/image.jpg)](https://www.github.com/alyssonvidal/)
 
 # Sobre mim
-<sub>Cientista de Dados e Engenheiro de Controle e Automação</sub>
 
 Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de controle e automação pela PUC MINAS e fã numero um da área de Ciencia de Dados. Aqui você irá encontrar meus principais projetos e repositorios sobre ciencia de dados, analise de dados, estatistica, metodos de otimização e teoria de controle desenvolvidos em Python ou Matlab.<br>
 
 # Principais Projetos
 
 **[Drugstore Sales Forecast:](https://github.com/alyssonvidal/Rossmann-Sales-Forecast#readme)** 
- O projeto consiste em prever os preços de cada loja de uma rede de drogaria em até seis semanas. Esse repositório contém insights sobre negócio, o modelo de machine learning capaz de fazer a previsão, um bot no telegram que informa as vendas/previsões de cada semana. <br><br>
+ O projeto consiste em prever os preços de cada loja de uma rede de drogaria em até seis semanas. Esse repositório contém insights sobre negócio, o modelo de machine learning capaz de fazer a previsão, um bot no telegram que informa as vendas/previsões de cada semana.<br>
+ <sub>**keywords:** Python, Machine Learning, Forecast, Timeseries, XGBoost, SARIMAX, Random Forest, Hyperparameters Tunning, Gridsearch, API, Flask, BOT, Telegram, Deploy, Heroku </sub><br><br>
+ 
  
 **[Houses Price Prediction:](https://github.com/alyssonvidal/House-Rocket-Sales#readme)** 
  O projeto consiste em encontrar soluções capazes de identificar as melhores oportunidades de compra e venda de imoveis em King Country, EUA. Esse repositório contém insights sobre negócio, o modelo de machine learning capaz de fazer a predição, aplicação web com dashboards ( tabelas, graficos e mapas iterativos).<br><br>
