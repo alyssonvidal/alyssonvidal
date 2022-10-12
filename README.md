@@ -7,17 +7,17 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
 
 # Principais Projetos
 
-**[Drugstore Sales Forecast:](https://github.com/alyssonvidal/Rossmann-Sales-Forecast#readme)** 
+**[Previsão de Vendas de uma rede de Drogarias:](https://github.com/alyssonvidal/Rossmann-Sales-Forecast#readme)** 
  O projeto consiste em prever os preços de cada loja de uma rede de drogaria em até seis semanas. Esse repositório contém insights sobre negócio, o modelo de machine learning capaz de fazer a previsão, um bot no telegram que informa as vendas/previsões de cada semana.<br>
 <sub>**keywords:** Python, Machine Learning, Previsão, Series Temporais, XGBoost, SARIMAX, Random Forest, Hyperparameters Tunning, Gridsearch, API, Flask, BOT, Telegram, Heroku </sub><br><br>
  
  
-**[Houses Price Prediction:](https://github.com/alyssonvidal/House-Rocket-Sales#readme)** 
- O projeto consiste em encontrar soluções capazes de identificar as melhores oportunidades de compra e venda de imoveis em King Country, EUA. Esse repositório contém insights sobre negócio, o modelo de machine learning capaz de fazer a predição, aplicação web com dashboards ( tabelas, graficos e mapas iterativos).<br>
+**[Introdução a Ciencia de Dados numa Imobiliária:](https://github.com/alyssonvidal/House-Rocket-Sales#readme)** 
+ O projeto consiste em encontrar atraves de ferramentas comuns da ciencia de dados soluções capazes de identificar as melhores oportunidades de compra e venda de imoveis em King Country, EUA. Esse repositório contém insights sobre negócio, o modelo de machine learning capaz de fazer a predição, aplicação web com dashboards ( tabelas, graficos e mapas iterativos).<br>
  <sub>**keywords:** Python, Machine Learning, Predição, XGBoost, Hyperparameters Tunning, Gridsearch, API, Streamlit, Heroku </sub><br><br>
 
- **[E-Commerce Clients Classification:]( https://github.com/alyssonvidal/webpage_conversion_test_ab)** 
- O projeto consiste em encontrar a melhor maneira de agrupar os clientes de acordo com o perfil de consumo. Esse repositório contém insights sobre negócio, o modelo de machine learning capaz de fazer a clusterização.<br>
+ **[Programa de Fidelidade de uma E-Commerce:]( https://github.com/alyssonvidal/webpage_conversion_test_ab)** 
+ O projeto consiste em encontrar a melhor maneira de agrupar os clientes de acordo com o perfil de consumo em seguida com os melhores clientes indica-los ao programa de fidelidade dessa E-Commerce. Esse repositório contém insights sobre negócio, o modelo de machine learning capaz de fazer a clusterização.<br>
 <sub>**keywords:** Python, Machine Learning, Clusterização, RFM, Kmeans, DBScan, GMM, Umap, Wordcloud, Pandas Profiling</sub><br><br>
 
  **[A/B Test conversão webpage:]( https://github.com/alyssonvidal/webpage_conversion_test_ab)** 
