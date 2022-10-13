@@ -14,15 +14,15 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
  
 **[Recomendação de compra/venda de imóveis de uma Imobiliária:](https://github.com/alyssonvidal/House-Rocket-Sales#readme)** 
  O projeto consiste em encontrar atraves de ferramentas comuns da ciencia de dados soluções capazes de identificar as melhores oportunidades de compra e venda de imoveis. Esse repositório contém insights sobre negócio, o modelo de machine learning capaz de fazer a predição, aplicação web com dashboards ( tabelas, graficos e mapas iterativos).<br>
- <sub>**keywords:** Python, Machine Learning, Predição, XGBoost, Hyperparameters Tunning, Gridsearch, API, Streamlit, Heroku </sub><br><br>
+ <sub>**keywords:** Python, Predição, XGBoost, Hyperparameters Tunning, Gridsearch, API, Streamlit, Heroku </sub><br><br>
 
  **[Programa de Fidelidade de uma E-Commerce:]( https://github.com/alyssonvidal/webpage_conversion_test_ab)** 
  O projeto consiste em encontrar a melhor maneira de agrupar os clientes de acordo com o perfil de consumo em seguida com os melhores clientes indica-los ao programa de fidelidade dessa E-Commerce. Esse repositório contém insights sobre negócio, o modelo de machine learning capaz de fazer a clusterização.<br>
-<sub>**keywords:** Python, Machine Learning, Clusterização, RFM, Kmeans, DBScan, GMM, Umap, Wordcloud, Pandas Profiling</sub><br><br>
+<sub>**keywords:** Python, Clusterização, RFM, Kmeans, DBScan, GMM, Yellowbicks, UMAP, TSNE, Wordcloud, Pandas Profiling</sub><br><br>
 
  **[A/B Test conversão webpage:]( https://github.com/alyssonvidal/webpage_conversion_test_ab)** 
  O projeto consiste em avaliar se através de testes de hipoteses o impacto da mudança da webpage de uma multinacional.<br>
- <sub>**keywords:** Python, Estatistica, Series Temporais, Test A/B, Shapiro-Wilk, Levene, T-Test</sub><br><br>
+ <sub>**keywords:** Python, Series Temporais, Test A/B, Shapiro-Wilk, Levene, T-Test</sub><br><br>
 
 ***
 
