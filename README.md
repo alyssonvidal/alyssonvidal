@@ -16,7 +16,7 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
  O projeto consiste em encontrar atraves de ferramentas comuns da ciencia de dados soluções capazes de identificar as melhores oportunidades de compra e venda de imoveis. Esse repositório contém insights sobre negócio, o modelo de machine learning capaz de fazer a predição, aplicação web com dashboards ( tabelas, graficos e mapas iterativos).<br>
  <sub>**keywords:** Python, Predição, XGBoost, Hyperparameters Tunning, Gridsearch, API, Streamlit, Heroku </sub><br><br>
 
- **[Programa de Fidelidade de uma E-Commerce:]( https://github.com/alyssonvidal/webpage_conversion_test_ab)** 
+ **[Programa de Fidelidade de uma E-Commerce:](ttps://github.com/alyssonvidal/E-Commerce-Clusterization#readme)** 
  O projeto consiste em encontrar a melhor maneira de agrupar os clientes de acordo com o perfil de consumo em seguida com os melhores clientes indica-los ao programa de fidelidade dessa E-Commerce. Esse repositório contém insights sobre negócio, o modelo de machine learning capaz de fazer a clusterização.<br>
 <sub>**keywords:** Python, Clusterização, RFM, Kmeans, DBScan, GMM, Yellowbicks, UMAP, TSNE, Wordcloud, Pandas Profiling</sub><br><br>
 
