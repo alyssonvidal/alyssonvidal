@@ -25,7 +25,7 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
  <sub>**keywords:** Python, Series Temporais, Test A/B, Shapiro-Wilk, Levene, T-Test</sub><br><br>
  
   **[Kaggle Competition - Credit Card Limit Classification:]( https://github.com/alyssonvidal/webpage_conversion_test_ab)** 
- O projeto é um desafio da *[comunidade DS](https://comunidadeds.com/)* onde os estudantes divididos em grupos de cinco teriam que em avaliar se o cliente de acordo com o seu histório o aumento no limite de crédito poderia ser concedido ou negado. O tempo também era um desafio já que a competição foi aberta as 10:00 22/09/2022 e fechada as 17:00 23/09/22. Neste repositório serão feito algumas revisões no código ( a essencia do código continua a mesma)<br>
+ O projeto é um desafio da *[comunidade DS](https://comunidadeds.com/)* onde os estudantes divididos em grupos teriam que desenvolver um modelo de machine learning vapaz de prever se o cliente de acordo com o seu histório o aumento no limite de crédito poderia ser concedido ou negado. O tempo também era um desafio já que a competição foi aberta as 10:00 22/09/2022 e fechada as 17:00 23/09/22. Neste repositório serão feito algumas revisões no código ( a essencia do código continua a mesma)<br>
  <sub>**keywords:** Python, Classificação, Credit Card, KNN Imputer, Over Sampling, Under Sampling, Random Forest, XGBoost</sub><br><br>
 
 ***
