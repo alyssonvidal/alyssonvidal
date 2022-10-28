@@ -20,6 +20,10 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
  O projeto consiste em encontrar a melhor maneira de agrupar os clientes de acordo com o perfil de consumo em seguida com os melhores clientes indica-los ao programa de fidelidade dessa E-Commerce. Esse repositório contém insights sobre negócio, o modelo de machine learning capaz de fazer a clusterização.<br>
 <sub>**keywords:** Python, Clusterização, RFM, Kmeans, DBScan, GMM, Yellowbicks, UMAP, TSNE, Wordcloud, Pandas Profiling</sub><br><br>
 
+ **[Cancelamentos de Bookings de Hoteis:](https://github.com/alyssonvidal/Hotel-Booking-Cancelations#readme)** 
+ Um dos problemas mais comuns que os hotéis enfrentam são cancelamentos, este estudo foi feito com uma base de dados de dois tipo de hoteis( ambos da mesma franquia) localizados em Portugal, o hotel urbano em Lisboa e o resort hotel no Algarveem. O projeto consiste em dado as caracteristicas do cliente se ele é está propenso a cancelar o booking ou não<br>
+<sub>**keywords:** Python, Classificação, Logistic Regression, Random Forest, XGBoost, Pipelines, Bayesian Hyperparameter, Ensemble</sub><br><br>
+
  **[A/B Test conversão webpage:]( https://github.com/alyssonvidal/webpage_conversion_test_ab)** 
  O projeto consiste em avaliar se através de testes de hipoteses o impacto da mudança da webpage de uma multinacional.<br>
  <sub>**keywords:** Python, Series Temporais, Test A/B, Shapiro-Wilk, Levene, T-Test</sub><br><br>
