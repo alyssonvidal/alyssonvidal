@@ -32,15 +32,29 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
  O projeto é um desafio da *[comunidade DS](https://comunidadeds.com/)* onde os estudantes divididos em grupos teriam que desenvolver um modelo de machine learning capaz de prever se o cliente, de acordo com o seu histório de requisições de crédito, teria o seu pedido de aumento do limite de crédito concedido ou negado. O tempo também era um desafio já que a competição foi aberta as 10:00 22/09/2022 e fechada as 17:00 23/09/22. Neste repositório serão feito algumas revisões no código ( a essencia do código continua a mesma)<br>
  <sub>**keywords:** Python, Classificação, Credit Card, KNN Imputer, Over Sampling, Under Sampling, Random Forest, XGBoost</sub><br><br>
 
-***
+# Habilidades
 
-**Principais Ferramentas que utilizo**<br>
- Python, Git, Docker, Heroku, SQL, Matlab, Matlab-Simulink...<br>
- **Principais Frameworks que utilizo**<br>
- Python: Pandas, Sklearn, statsmodel, scipy, Flask, Folium, Geopandas...<br><br>
+**Principais Linguagens de programação:** Python, SQL, Matlab
+
+**Principais Bibiotecas Machine Learning:** Pandas, Sklearn, statsmodel, scipy
+
+**Cloud:** Heroku
+
+**Big Data:** PySpark
+
+**WebApp:** Streamlit, Flask
+
+**Orquestradores:** Docker, Kubernets
+
+**Geofiles:** Folium, Geopandas, Geojson
+
+**Versionamento:** Git
+
  
  **Idomas**<br> 
  Português e Inglês<br>
+ 
+ ***
  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyssonmach/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/alyssonvidal/)
