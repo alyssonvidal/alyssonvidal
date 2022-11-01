@@ -34,9 +34,11 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
 
 # Habilidades
 
-**Principais Linguagens de programação:** Python, SQL, Matlab
+**Linguagens de Programação:** Python, SQL, Matlab
 
-**Principais Bibiotecas Machine Learning:** Pandas, Sklearn, statsmodel, scipy
+**Bibiotecas Machine Learning:** Pandas, Sklearn, statsmodel, scipy, imblearn
+
+**Visualização:** Matplotlib, Seaborn, Pyplot, Altair
 
 **Cloud:** Heroku
 
