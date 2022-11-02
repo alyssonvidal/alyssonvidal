@@ -46,7 +46,7 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
 
 **WebApp:** Streamlit, Flask
 
-**Orquestradores:** Docker, Kubernets
+**Orquestradores/Containers:** Kubernetes,Docker
 
 **Geofiles:** Folium, Geopandas, Geojson
 
