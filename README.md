@@ -48,7 +48,7 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
 
 **Orquestradores/Containers:** Docker
 
-**Geofiles:** Folium, Geopandas, Geojson
+**Geospatial:** Folium, Geopandas, Geojson
 
 **Versionamento:** Git
 
