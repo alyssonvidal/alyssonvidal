@@ -8,7 +8,7 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
 # Principais Projetos
 
 **[Previsão de Vendas de uma rede Farmaceudica:](https://github.com/alyssonvidal/Rossmann-Sales-Forecast#readme)** 
- O projeto consiste em prever os preços de cada loja de uma rede farmaceudica para os próximos seis semanas. Esse repositório contém insights sobre negócio, o modelo de machine learning de previsão, um bot no telegram que informa as vendas/previsões de cada semana.<br>
+ O projeto consiste em prever as vendas de cada loja de uma rede farmaceudica para as próximas seis semanas. Esse repositório contém insights sobre o modelo negócio, o modelo de machine learning de previsão, um bot no telegram que informa as vendas/previsões de cada semana.<br>
 <sub>**keywords:** Python, Machine Learning, Previsão, Series Temporais, XGBoost, SARIMAX, Random Forest, Hyperparameters Tunning, Gridsearch, API, Flask, BOT, Telegram, Heroku </sub><br><br>
  
  
