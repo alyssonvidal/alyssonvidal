@@ -31,29 +31,29 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
  O projeto é um desafio da *[comunidade DS](https://comunidadeds.com/)* onde os estudantes divididos em grupos teriam que desenvolver um modelo de machine learning capaz de prever se o cliente, de acordo com o seu histório de requisições de crédito, teria o seu pedido de aumento do limite de crédito concedido ou negado. O tempo também era um desafio já que a competição foi aberta as 10:00 22/09/2022 e fechada as 17:00 23/09/22. Neste repositório serão feito algumas revisões no código ( a essencia do código continua a mesma)<br>
  <sub>**keywords:** Python, Classificação, Credit Card, KNN Imputer, Over Sampling, Under Sampling, Random Forest, XGBoost</sub><br><br>
 
-# Ferramentas
+# Principais Ferramentas
 
 **Linguagens de Programação:** Python, SQL, Matlab
 
-**Bibliotecas Machine Learning:** Sklearn, Tensorflow, NLTK, scipy
+**Bibliotecas Machine Learning:** Sklearn, LightGBM, XGBoost
 
-**Bibliotecas Estatísticas:** statsmodel, scipy
+**Bibliotecas Deep Learning:** Pytorch, NLTK
 
-**Visualização:** Matplotlib, Seaborn, Plotly, Altair
+**Bibliotecas Matemáticas:** statsmodel, scipy
 
-**Cloud:** AWS
+**Hypertuning:** Optuna
 
-**Big Data:** PySpark
+**Visualização:** Matplotlib, Seaborn, Plotly
 
-**WebApp:** Streamlit, Flask
+**Cloud:** AWS (EC2, RDS, S3, Lambda)
 
-**BOT:** Telegram, Whastapp 
+**Orquestradores/Containers:** Docker, Airflow
 
-**Orquestradores/Containers:** Docker
+**CI/CD**: Github Actions
 
 **Geospatial:** Folium, Geopandas, Geojson
 
-**Versionamento:** Git
+**Versionamento:** Git, DVC
 
 **Idiomas:** Português e Inglês
  
