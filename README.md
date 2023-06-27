@@ -19,10 +19,6 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
  O projeto consiste em prever as vendas de cada loja de uma rede farmaceudica para as próximas seis semanas. Esse repositório contém insights sobre o modelo negócio, o modelo de machine learning de previsão, um bot no telegram que informa as vendas/previsões de cada semana.<br>
 <sub>**keywords:** Python, Machine Learning, Previsão, Series Temporais, XGBoost, SARIMAX, Random Forest, Hyperparameters Tunning, Gridsearch, API, Flask, BOT, Telegram, Heroku </sub><br><br>
 
-**[Recomendação de compra/venda de imóveis de uma Imobiliária:](https://github.com/alyssonvidal/House-Sales#readme)** 
- O projeto consiste em encontrar atraves de ferramentas e técnicas comuns da ciencia de dados soluções capazes de identificar as melhores oportunidades de compra e venda de imoveis. Esse repositório contém insights sobre negócio, o modelo de machine learning capaz de fazer a predição, aplicação web com dashboards ( tabelas, graficos e mapas iterativos).<br>
- <sub>**keywords:** Python, Predição, XGBoost, Hyperparameters Tunning, Gridsearch, API, Streamlit, Heroku </sub><br><br>
-
  **[A/B Test conversão webpage:]( https://github.com/alyssonvidal/webpage_conversion_test_ab)** 
  O projeto consiste em avaliar se através de testes de hipoteses o impacto da mudança da webpage de uma multinacional.<br>
  <sub>**keywords:** Python, Series Temporais, Test A/B, Shapiro-Wilk, Levene, T-Test</sub><br><br>
