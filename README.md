@@ -41,9 +41,13 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
 
 **Visualização:** Matplotlib, Seaborn, Plotly
 
+**Dashboards:** PowerBi, Streamlit
+
 **Cloud:** AWS (EC2, RDS, S3, Lambda)
 
-**Orquestradores/Containers:** Docker, Airflow
+**Orquestradores:** Airflow
+
+**Containers:** Docker 
 
 **CI/CD**: Github Actions
 
@@ -51,7 +55,9 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
 
 **Versionamento:** Git, DVC
 
-**Idiomas:** Português e Inglês
+# Idiomas 
+
+Português e Inglês
  
  ***
  
