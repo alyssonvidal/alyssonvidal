@@ -41,7 +41,7 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
 
 **Visualização:** Matplotlib, Seaborn, Plotly
 
-**Dashboards:** PowerBi, Streamlit
+**Dashboards:** PowerBI, Streamlit
 
 **Cloud:** AWS (EC2, RDS, S3, Lambda)
 
