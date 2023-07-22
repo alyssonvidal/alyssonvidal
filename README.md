@@ -35,7 +35,7 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
 
 **Bibliotecas Deep Learning:** Pytorch, NLTK
 
-**Bibliotecas Matemáticas:** statsmodel, scipy
+**Bibliotecas Matemáticas:** numpy, statsmodel, scipy
 
 **Hypertuning:** Optuna
 
