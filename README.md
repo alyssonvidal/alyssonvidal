@@ -23,7 +23,11 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
  O projeto consiste em avaliar se através de testes de hipoteses o impacto da mudança da webpage de uma multinacional.<br>
  <sub>**keywords:** Python, Series Temporais, Test A/B, Shapiro-Wilk, Levene, T-Test</sub><br><br>
  
-  **[Kaggle Competition - Credit Card Limit Classification:](https://github.com/alyssonvidal/Credit-Card-Limit-Classification)** 
+**[Fisrt Place - Kaggle Competition - Satisfaction Classification:](https://github.com/alyssonvidal/Credit-Card-Limit-Classification](https://www.kaggle.com/competitions/instyle-nps/code))** 
+ O projeto é um desafio da *[comunidade DS](https://comunidadeds.com/)*, a proposta era desenvolver o modelo de machine learning com a maior precisão dentre os competidores num problema de classificação de satisfação de cliente de uma loja de roupas.<br>
+ <sub>**keywords:** Python, Classificação, Satisfação, KNN Imputer, Optuna, LightGBM, XGBoost, Random Forest, Stacking </sub><br><br>
+
+**[Second Place - Kaggle Competition - Credit Card Limit Classification:](https://github.com/alyssonvidal/Credit-Card-Limit-Classification)** 
  O projeto é um desafio da *[comunidade DS](https://comunidadeds.com/)* onde os estudantes divididos em grupos teriam que desenvolver um modelo de machine learning capaz de prever se o cliente, de acordo com o seu histório de requisições de crédito, teria o seu pedido de aumento do limite de crédito concedido ou negado. O tempo também era um desafio já que a competição foi aberta as 10:00 22/09/2022 e fechada as 17:00 23/09/22. Neste repositório serão feito algumas revisões no código ( a essencia do código continua a mesma)<br>
  <sub>**keywords:** Python, Classificação, Credit Card, KNN Imputer, Over Sampling, Under Sampling, Random Forest, XGBoost</sub><br><br>
 
