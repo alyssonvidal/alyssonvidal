@@ -23,7 +23,7 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
  O projeto consiste em avaliar se através de testes de hipoteses o impacto da mudança da webpage de uma multinacional.<br>
  <sub>**keywords:** Python, Series Temporais, Test A/B, Shapiro-Wilk, Levene, T-Test</sub><br><br>
  
-**[Fisrt Place - Kaggle Competition - Satisfaction Classification:](https://github.com/alyssonvidal/Credit-Card-Limit-Classification](https://www.kaggle.com/competitions/instyle-nps/code))** 
+**[Fisrt Place - Kaggle Competition - Satisfaction Classification:](https://www.kaggle.com/competitions/instyle-nps/code)** 
  O projeto é um desafio da *[comunidade DS](https://comunidadeds.com/)*, a proposta era desenvolver o modelo de machine learning com a maior precisão dentre os competidores num problema de classificação de satisfação de cliente de uma loja de roupas.<br>
  <sub>**keywords:** Python, Classificação, Satisfação, KNN Imputer, Optuna, LightGBM, XGBoost, Random Forest, Stacking </sub><br><br>
 
