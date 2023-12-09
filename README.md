@@ -35,15 +35,13 @@ Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de 
 
 **Linguagens de Programação:** Python, SQL, Matlab
 
-**Bibliotecas Machine Learning:** Sklearn, LightGBM, XGBoost
-
-**Bibliotecas Deep Learning:** Pytorch, NLTK
+**Bibliotecas Machine Learning:** Sklearn, Pytorch, LightGBM, XGBoost
 
 **Dashboards:** PowerBI, Streamlit
 
 **Cloud:** AWS (EC2, RDS, S3, Lambda)
 
-**Orquestradores:** Airflow
+**Orquestradores:** Airflow, Power Automate
 
 **Containers:** Docker 
 
