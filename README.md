@@ -1,64 +1,36 @@
+<a href="https://www.linkedin.com/in/alyssonmach/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;<a href="[https://www.kaggle.com/jeffheaton](https://www.kaggle.com/alyssonvidal)"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012924/kaggle_ksaktb.png" alt="d" width="75"/>
 
-[![Image](https://github.com/alyssonvidal/alyssonvidal/blob/main/image.jpg)](https://www.github.com/alyssonvidal/)
-
-# Sobre mim
-
-Olá pessoal, meu nome é Alysson Machado sou formado na área de Engenharia de controle e automação pela PUC MINAS e atualmente trabalho como Cientista de Dados. Aqui você irá encontrar meus principais projetos e repositorios sobre ciencia de dados, analise de dados, estatistica, metodos de otimização e teoria de controle desenvolvidos em Python ou Matlab.<br>
-
-# Principais Projetos
+# Projetos de Portifólio
 
 **[Cancelamentos de Bookings de Hoteis:](https://github.com/alyssonvidal/Hotel-Booking-Cancelations#readme)** 
- Um dos problemas mais comuns que os hotéis enfrentam são cancelamentos, este estudo foi feito com uma base de dados de dois tipo de hoteis, ambos da mesma franquia localizados em Portugal, o hotel urbano em Lisboa e o resort hotel no Algarveem. O projeto consiste em dado as caracteristicas do cliente se ele é está propenso a cancelar o booking.<br>
-<sub>**keywords:** Python, Aprendizado Supervisionado, Classificação, XGBoost, LightGBM, Pytorch, Optuna, SHAP, EDA, Github Actions, DVC, cookiecutter... </sub><br><br>
+
+O projeto consiste no desenvolvimento de um modelo de machine learning capaz de fazer a previsão de cancelamentos de reserva de um Hotel em Portugal.
+
+<sub>**keywords:** Classificação, XGBoost, LightGBM, Pytorch, Optuna, SHAP, Github Actions, DVC... </sub><br><br>
 
 **[Programa de Fidelidade de uma E-Commerce:](https://github.com/alyssonvidal/E-Commerce-Clusterization#readme)** 
- O projeto consiste em encontrar criar agrupamentos de os clientes de acordo com o perfil de consumo utilizando as métricas como o RFM. Em seguida indicar os clientes mais elegiveis a participar do progrma de fidelidade, "Insiders" que a empresa quer desenvolver. Esse repositório contém insights sobre negócio, o modelo de machine learning de clusterização, deploy na AWS e dashboards interativos no Metabase.<br>
-<sub>**keywords:** Python, Clusterização, RFM, Kmeans, DBScan, GMM, Yellowbicks, UMAP, TSNE, Wordcloud, AWS, Metabase, Papermill</sub><br><br>
+
+O projeto consiste no desenvolvimento de um modelo de machine learning capaz na segmentação de clientes de acordo com o perfil de consumo.
+
+<sub>**keywords:** Clusterização, RFM, Kmeans, DBScan, GMM,  Map Reduction</sub><br><br>
 
 **[Previsão de Vendas de uma rede Farmaceudica:](https://github.com/alyssonvidal/Rossmann-Sales-Forecast#readme)** 
- O projeto consiste em prever as vendas de cada loja de uma rede farmaceudica para as próximas seis semanas. Esse repositório contém insights sobre o modelo negócio, o modelo de machine learning de previsão, um bot no telegram que informa as vendas/previsões de cada semana.<br>
-<sub>**keywords:** Python, Machine Learning, Previsão, Series Temporais, XGBoost, SARIMAX, Random Forest, Hyperparameters Tunning, Gridsearch, API, Flask, BOT, Telegram, Heroku </sub><br><br>
 
- **[A/B Test conversão webpage:]( https://github.com/alyssonvidal/webpage_conversion_test_ab)** 
- O projeto consiste em avaliar se através de testes de hipoteses o impacto da mudança da webpage de uma multinacional.<br>
- <sub>**keywords:** Python, Series Temporais, Test A/B, Shapiro-Wilk, Levene, T-Test</sub><br><br>
- 
-**[Fisrt Place - Kaggle Competition - Satisfaction Classification:](https://www.kaggle.com/competitions/instyle-nps/code)** 
- O projeto é um desafio da *[comunidade DS](https://comunidadeds.com/)*, a proposta era desenvolver o modelo de machine learning com a maior precisão dentre os competidores num problema de classificação de satisfação de cliente de uma loja de roupas.<br>
- <sub>**keywords:** Python, Classificação, Satisfação, KNN Imputer, Optuna, LightGBM, XGBoost, Random Forest, Stacking </sub><br><br>
+O projeto consiste no desenvolvimento de um modelo de machine learning capaz de fazer a previsão vendas de uma Rede Farmaceudica para as próximas semanas.
 
-**[Second Place - Kaggle Competition - Credit Card Limit Classification:](https://github.com/alyssonvidal/Credit-Card-Limit-Classification)** 
- O projeto é um desafio da *[comunidade DS](https://comunidadeds.com/)* onde os estudantes divididos em grupos teriam que desenvolver um modelo de machine learning capaz de prever se o cliente, de acordo com o seu histório de requisições de crédito, teria o seu pedido de aumento do limite de crédito concedido ou negado. O tempo também era um desafio já que a competição foi aberta as 10:00 22/09/2022 e fechada as 17:00 23/09/22. Neste repositório serão feito algumas revisões no código ( a essencia do código continua a mesma)<br>
- <sub>**keywords:** Python, Classificação, Credit Card, KNN Imputer, Over Sampling, Under Sampling, Random Forest, XGBoost</sub><br><br>
+<sub>**keywords:** Python, Prophet, Time Series, XGBoost, SARIMAX, Optuna, Fast API, Telegram BOT</sub><br><br>
 
-# Principais Ferramentas
 
-**Linguagens de Programação:** Python, SQL, Matlab
+# Competições
 
-**Bibliotecas Machine Learning:** Sklearn, Pytorch, LightGBM, XGBoost
+[First Place Kaggle Competition - Satisfaction Classification](https://www.kaggle.com/competitions/instyle-nps/code)
 
-**Dashboards:** PowerBI, Streamlit
+[Second Place Kaggle Competition - Credit Card Limit Classification](https://github.com/alyssonvidal/Credit-Card-Limit-Classification) 
 
-**Cloud:** AWS (EC2, RDS, S3, Lambda)
-
-**Orquestradores:** Airflow, Power Automate
-
-**Containers:** Docker 
-
-**CI/CD**: Github Actions
-
-**Geospatial:** Folium, Geopandas, Geojson
-
-**Versionamento:** Git, DVC
-
-# Idiomas 
-
-Português e Inglês
  
  ***
  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alyssonmach/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/alyssonvidal/)
-
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=alyssonvidal&count_private=true)
